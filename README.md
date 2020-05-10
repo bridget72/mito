@@ -1,5 +1,10 @@
 # Segmenting mitochondira from astroyte with Michailovich flow
 
+By default, running 3d_flow.py will plot the contour on slice at half depth of the whole stack.
+Result will then be saved to ./save/, and can then be smoothed as gheat3d.m and be plotted as shwon in anim.ipynb.
+
+
+
 
 For 2D data, results were plotted in 2D result.ipynb and animations were saved to .anim/2d
 
